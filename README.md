@@ -1,5 +1,7 @@
 # jenkins-demo
 
-This is to isplay the content from github..
+This is to display the content from github..
 
 Jenkins integration with github ...
+
+Commited change
